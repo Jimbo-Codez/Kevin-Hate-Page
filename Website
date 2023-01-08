@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", intial-scale="1.0">
+    <title>Kevin's Bad?</title>
+    <link href="Website.css" rel="stylesheet">
+</head>
+<body>
+    <div>
+        <main>
+        <header>
+            <h1>It may come as a shock to you, but Kevin is kindof dogshit!</h1>
+            <p>I used to think Kevin was a cracked ADC one trick, but after watching him play Mundo in the toplane, I can se that he's pretty much trash!</p>
+        </header>
+        
+            <section>Why is kevin so bad?</section>
+            <ol>1. Bad CS</ol>
+            <ol>2. Terrible Roams</ol>
+            <ol>3. This can be considered conjecture but he is also kinda stinky, I can smell him from Texas!</ol>
+
+            <section>
+                <input type="text" name="cankevinbeatme?" placeholder="can kevin beat my ass?" required>
+                <button name="kevinbeat" type="submit">hope you chose wisely</button>
+                <img src="data:image/jpeg;base64,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" alt="guy thinking"</img>
+                
+            </section>
+
+        </main>
+    </div>
+    <div name="div2">
+        <main>
+            <header class="header-2">Wanna se something embarrassing?<a href="https://u.gg/lol/profile/na1/just%20j%20chillin/overview">CLICK HERE!</a></header>
+            <p>pretty embarrasing huh?</p>
+        </header>
+            
+        </main>
+
+    </div>
+</body>
+    
